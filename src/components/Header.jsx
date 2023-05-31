@@ -6,7 +6,7 @@ export const Header = () => {
   return (
     <nav>
 
-      <h1>TechStar.</h1>
+      <h1>TechStar</h1>
       <main>
         <HashLink to={"/#home"}>Home</HashLink>
         <HashLink to={"/#about"}>About</HashLink>
